@@ -1,0 +1,8 @@
+1. when to use memory and calldata in function parameters
+  https://ethereum.stackexchange.com/questions/74442/when-should-i-use-calldata-and-when-should-i-use-memory
+  
+
+2. EVM understanding in series
+   https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
+   
+3. 
