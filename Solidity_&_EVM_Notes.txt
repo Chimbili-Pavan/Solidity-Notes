@@ -5,4 +5,5 @@
 2. EVM understanding in series
    https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
    
-3. 
+3. EVM and assembly language
+   https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c
