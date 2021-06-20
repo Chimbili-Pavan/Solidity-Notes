@@ -7,3 +7,6 @@
    
 3. EVM and assembly language
    https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c
+
+4. Assembly 
+   https://ethereum.stackexchange.com/questions/3157/what-are-some-examples-of-how-inline-assembly-benefits-smart-contract-developmen
