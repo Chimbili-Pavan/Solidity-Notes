@@ -10,3 +10,6 @@
 
 4. Assembly 
    https://ethereum.stackexchange.com/questions/3157/what-are-some-examples-of-how-inline-assembly-benefits-smart-contract-developmen
+   
+5. public and External functions difference
+   https://ethereum.stackexchange.com/questions/19380/external-vs-public-best-practices?answertab=active#tab-top
