@@ -13,3 +13,6 @@
    
 5. public and External functions difference
    https://ethereum.stackexchange.com/questions/19380/external-vs-public-best-practices?answertab=active#tab-top
+   
+6. SOlidity common attacks
+   https://medium.com/shard-labs/smart-contract-attacks-and-prevention-with-openzeppelin-5ec575fb641a
