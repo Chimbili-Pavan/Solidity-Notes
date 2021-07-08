@@ -16,3 +16,8 @@
    
 6. SOlidity common attacks
    https://medium.com/shard-labs/smart-contract-attacks-and-prevention-with-openzeppelin-5ec575fb641a
+   
+7. What is Base58 encodeing/de-coding and why is it needed, because IPFS hash which is 46 bytes cannot be stored in one 32byte slot in solidity, so IPFS hash is a just base58 
+   encoding of some 36byte number, while storing it in solidity as bytes32, first do base58 decoding the ipfs hash which will return the 36 bytes number, then removes first 2 
+   bytes which is a metadata, then use that remaining 32 bytes ipfs hash to store it in solidity bytes32 slot. 
+    https://learnmeabitcoin.com/technical/base58
