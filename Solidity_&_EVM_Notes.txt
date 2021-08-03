@@ -21,3 +21,6 @@
    encoding of some 36byte number, while storing it in solidity as bytes32, first do base58 decoding the ipfs hash which will return the 36 bytes number, then removes first 2 
    bytes which is a metadata, then use that remaining 32 bytes ipfs hash to store it in solidity bytes32 slot. 
     https://learnmeabitcoin.com/technical/base58
+    
+8. How EOA addresses and Contract addresses are created. ?
+   https://jeancvllr.medium.com/solidity-tutorial-all-about-addresses-ffcdf7efc4e7
