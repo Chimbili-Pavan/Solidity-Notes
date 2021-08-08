@@ -24,3 +24,7 @@
     
 8. How EOA addresses and Contract addresses are created. ?
    https://jeancvllr.medium.com/solidity-tutorial-all-about-addresses-ffcdf7efc4e7
+   
+9. Signature verification video
+   https://www.youtube.com/watch?v=NP4db_UPVwc
+   
