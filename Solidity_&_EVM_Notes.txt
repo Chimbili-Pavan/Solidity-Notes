@@ -28,3 +28,6 @@
 9. Signature verification video
    https://www.youtube.com/watch?v=NP4db_UPVwc
    
+10. Why using calldata in function parameters is cheap than memory ?
+    https://enderphan.kubertu.com/smartcontract/saving-gas
+   
