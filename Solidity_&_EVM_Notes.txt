@@ -1,3 +1,48 @@
+Youtube channels for learning blockchain
+-----------------------------------------
+) Whiteboard Crypto : To understand the basic concepts
+2) Altcoin Daily : For daily crypto news
+3) Coin Bureau : For detailed analysis of projects
+4) Finematics : To understand DeFi protocols
+5) Smart Contract Programmer : To learn advanced solidity concepts
+6) Web3 Club : To learn popular smart contracts and standards
+7) EatTheBlocks & Dapp University : For basics of career in blockchain
+8) Moralis Web3 : For creating DApps faster
+9) Thinklair : For brilliant, crisp and no-nonsense explanation of blockchain concepts
+
+
+Books
+-----
+Mastering Ethereum by Andreas M.Antonopoulos & Dr.Gavin Wood
+
+websites
+--------
+https://www.learnweb3.io/
+https://www.useweb3.xyz/
+https://rohas.substack.com/
+http://www.ledgertech.biz/kcarticles.html
+
+
+people to follow or links to refer on Medium
+--------------------------
+https://kctheservant.medium.com/lists
+https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+https://medium.com/@ConsenSys
+https://medium.com/@kbaiiitmk
+https://medium.com/@grohotov.aleksei
+
+
+
+Tools for Development
+---------------------
+Ganache
+Truffle
+Remix
+Hardhat
+
+****************************************************************************************************************************
+
+
 1. when to use memory and calldata in function parameters
   https://ethereum.stackexchange.com/questions/74442/when-should-i-use-calldata-and-when-should-i-use-memory
   
@@ -30,4 +75,12 @@
    
 10. Why using calldata in function parameters is cheap than memory ?
     https://enderphan.kubertu.com/smartcontract/saving-gas
-   
+
+11. deep dive into EVM
+    https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
+
+12. HOw fixed-length data types are stored in solidity
+    https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-2-storage-layout-bc5349cb11b7
+
+13. How dynamic data types are stored in solidity
+    https://medium.com/@hayeah/diving-into-the-ethereum-vm-the-hidden-costs-of-arrays-28e119f04a9b
