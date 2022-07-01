@@ -84,3 +84,6 @@ Hardhat
 
 13. How dynamic data types are stored in solidity
     https://medium.com/@hayeah/diving-into-the-ethereum-vm-the-hidden-costs-of-arrays-28e119f04a9b
+    
+14. Understanding EVM bytecode
+    https://blog.trustlook.com/understand-evm-bytecode-part-1/
