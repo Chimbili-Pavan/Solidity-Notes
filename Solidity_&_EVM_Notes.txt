@@ -87,3 +87,9 @@ Hardhat
     
 14. Understanding EVM bytecode
     https://blog.trustlook.com/understand-evm-bytecode-part-1/
+
+15. EVM Handbook
+    https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d
+
+16. EVM Puzzles
+    https://link.medium.com/5hG1km8Prrb
