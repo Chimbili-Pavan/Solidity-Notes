@@ -93,3 +93,6 @@ Hardhat
 
 16. EVM Puzzles
     https://link.medium.com/5hG1km8Prrb
+    
+17. merkle patricia trie usage in ethereum explained with practical example
+    https://medium.com/@chiqing/verify-ethereum-account-balance-with-state-proof-83b51ceb15cf
